@@ -13,7 +13,7 @@ import com.advanced.accessmodifiers.*;
 		 
 	//	 BaseClass bc = new BaseClass();
 		 
-		 System.out.println();
+		 System.out.println(dc.derivedVariable);
 		 
 		// System.out.println(bc.baseVariable);
 	}
